@@ -1,0 +1,8 @@
+flask
+flask-talisman
+flask-cors
+flask-sqlalchemy
+gunicorn
+nose
+coverage
+flake8
